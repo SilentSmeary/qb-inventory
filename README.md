@@ -24,7 +24,7 @@
 ![Weapon](https://imgur.com/juombuE.png)
 ![Shop](https://imgur.com/DdksxMj.png)
 ![Crafting](https://imgur.com/p50Biyb.png)
-![Glovebox](https://i.imgur.com/LjDEYWa.png)
+![Glovebox](https://imgur.com/nwlew7u.png)
 ![Trunk](https://i.imgur.com/IoGYZbv.png)
 
 
