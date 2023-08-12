@@ -7,7 +7,7 @@
 - [qb-drugs](https://github.com/qbcore-framework/qb-drugs) -  Drugs and Weed Planting System
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
-### Basic
+# Basic
 ## Screenshots
 ![General](https://i.imgur.com/GR0MDFN.png)
 ![ID Card](https://i.imgur.com/C6gAOWi.png)
