@@ -25,7 +25,7 @@
 ![Shop](https://imgur.com/DdksxMj.png)
 ![Crafting](https://imgur.com/p50Biyb.png)
 ![Glovebox](https://imgur.com/nwlew7u.png)
-![Trunk](https://i.imgur.com/IoGYZbv.png)
+![Trunk](https://imgur.com/kwTv7D8.png)
 
 
 ## Features
