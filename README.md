@@ -22,7 +22,7 @@
 ![General](https://imgur.com/UbGY8Jm.png)
 ![ID Card](https://imgur.com/Mdf29N1.png)
 ![Weapon](https://imgur.com/juombuE.png)
-![Shop](https://i.imgur.com/7Da7UEX.png)
+![Shop](https://imgur.com/DdksxMj.png)
 ![Crafting](https://i.imgur.com/peONaL9.png)
 ![Glovebox](https://i.imgur.com/LjDEYWa.png)
 ![Trunk](https://i.imgur.com/IoGYZbv.png)
