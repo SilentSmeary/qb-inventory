@@ -20,7 +20,7 @@
 # Edited
 ## Screenshots
 ![General](https://imgur.com/UbGY8Jm.png)
-![ID Card](https://i.imgur.com/C6gAOWi.png)
+![ID Card](https://imgur.com/Mdf29N1.png)
 ![Weapon](https://i.imgur.com/RbCvHJb.png)
 ![Shop](https://i.imgur.com/7Da7UEX.png)
 ![Crafting](https://i.imgur.com/peONaL9.png)
