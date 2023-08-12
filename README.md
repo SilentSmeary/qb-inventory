@@ -17,6 +17,17 @@
 ![Glovebox](https://i.imgur.com/LjDEYWa.png)
 ![Trunk](https://i.imgur.com/IoGYZbv.png)
 
+# Edited
+## Screenshots
+![General](https://i.imgur.com/GR0MDFN.png)
+![ID Card](https://i.imgur.com/C6gAOWi.png)
+![Weapon](https://i.imgur.com/RbCvHJb.png)
+![Shop](https://i.imgur.com/7Da7UEX.png)
+![Crafting](https://i.imgur.com/peONaL9.png)
+![Glovebox](https://i.imgur.com/LjDEYWa.png)
+![Trunk](https://i.imgur.com/IoGYZbv.png)
+
+
 ## Features
 - Item crafting
 - Weapon attachment crafting
