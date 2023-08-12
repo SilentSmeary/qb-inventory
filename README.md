@@ -19,7 +19,7 @@
 
 # Edited
 ## Screenshots
-![General](https://i.imgur.com/GR0MDFN.png)
+![General](https://imgur.com/UbGY8Jm.png)
 ![ID Card](https://i.imgur.com/C6gAOWi.png)
 ![Weapon](https://i.imgur.com/RbCvHJb.png)
 ![Shop](https://i.imgur.com/7Da7UEX.png)
