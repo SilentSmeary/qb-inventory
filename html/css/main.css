@@ -33,6 +33,7 @@ body {
 	height: 100%;
 	left: 0vw;
 	display: none;
+	background: #000000af;
 }
 
 .inv-background {
